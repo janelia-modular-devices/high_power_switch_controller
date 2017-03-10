@@ -4,3 +4,6 @@
 [submodule "hardware/high_power_switch_controller_3x2"]
 	path = hardware/high_power_switch_controller_3x2
 	url = https://github.com/janelia-kicad/high_power_switch_controller_3x2.git
+[submodule "firmware/HighPowerSwitchController"]
+	path = firmware/HighPowerSwitchController
+	url = https://github.com/janelia-arduino/HighPowerSwitchController.git
