@@ -7,3 +7,6 @@
 [submodule "firmware/HighPowerSwitchController"]
 	path = firmware/HighPowerSwitchController
 	url = https://github.com/janelia-arduino/HighPowerSwitchController.git
+[submodule "firmware/SleepAssayController"]
+	path = firmware/SleepAssayController
+	url = https://github.com/janelia-arduino/SleepAssayController.git
